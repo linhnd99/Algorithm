@@ -1,1 +1,5 @@
-*.exe *.INP *.OUT *.o
+#file_ignore
+*.exe 
+*.INP 
+*.OUT 
+*.o
